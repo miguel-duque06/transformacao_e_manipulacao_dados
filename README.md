@@ -1,4 +1,4 @@
-# 📊TRANSFORMAÇÃO E MANIPULAÇÃO DE DADOS
+# TRANSFORMAÇÃO E MANIPULAÇÃO DE DADOS
 
 Projeto em Python focado em técnicas de transformação, limpeza e manipulação de dados utilizando bibliotecas populares do ecossistema de análise de dados.
 
