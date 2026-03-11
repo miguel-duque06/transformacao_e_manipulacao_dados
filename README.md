@@ -4,7 +4,7 @@ Projeto em Python focado em técnicas de transformação, limpeza e manipulaçã
 
 O objetivo deste projeto é demonstrar, de forma prática, como preparar dados para análise, realizando operações comuns de tratamento e organização.
 
-**Tecnologias Utilizadas**
+**Técnicas Utilizadas**
 
 Python
 
