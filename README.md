@@ -40,6 +40,6 @@ Engenharia de dados
 
 Machine Learning
 
-**📊Objetivo Educacional**
+**📊Objetivo do Projeto**
 
 Este projeto foi criado com foco em aprendizado e prática de manipulação de dados em Python, servindo como material de estudo para quem deseja aprender ou revisar conceitos importantes de data wrangling.
